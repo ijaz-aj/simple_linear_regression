@@ -8,7 +8,7 @@ Explore basic linear regression with scikit-learn, a powerful machine learning l
 
 ## Contents
 
-- `linear_regression.ipynb`: Jupyter Notebook for simple linear regression.
+- `simple linear regression.ipynb`: Jupyter Notebook for simple linear regression.
 - `data.csv`: Sample dataset.
 - `requirements.txt`: Python dependencies.
 
