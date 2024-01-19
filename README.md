@@ -9,14 +9,12 @@ Explore basic linear regression with scikit-learn, a powerful machine learning l
 ## Contents
 
 - `simple linear regression.ipynb`: Jupyter Notebook for simple linear regression.
-- `data.csv`: Sample dataset.
-- `requirements.txt`: Python dependencies.
+- `height-weight.csv`: Sample dataset.
 
 ## Getting Started
 
-1. Clone the repo: `git clone https://github.com/your-username/simple-linear-regression.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Open and run `linear_regression.ipynb`.
+1. Clone the repo: `git clone https://github.com/ijaz-aj/simple linear regression.git`
+3. Open and run `simple linear regression.ipynb`.
 
 ## Usage
 
@@ -24,12 +22,12 @@ Follow the notebook to understand and experiment with simple linear regression u
 
 ## Dataset
 
-`data.csv` contains a sample dataset for model training and testing.
+`height-weight.csv` contains a sample dataset for model training and testing.
 
 ## Dependencies
 
 - scikit-learn
-- numpy, pandas, matplotlib
+- numpy, pandas, matplotlib, seaborn, statsmodels
 - jupyter (for running the notebook)
 
 ## Contributing
